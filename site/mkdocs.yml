@@ -1,3 +1,11 @@
 site_name: Deno 正體中文手冊（v1.31.0）
 theme:
   name: readthedocs
+
+nav:
+  - '首頁': 'index.md'
+  - '簡介': 'introduction.md'
+  - '開始使用 Deno':
+    - '前言': 'getting_started/index.md'
+    - '安裝 Deno': 'getting_started/installation.md'
+  - '配置你的開發環境': 'getting_started/setup_your_environment.md'
